@@ -1,0 +1,1 @@
+This is a simple app that grabs the path variable, add that by 10 and return the result.
